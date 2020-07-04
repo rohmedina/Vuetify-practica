@@ -2,7 +2,7 @@
 
 ## Diseño
 
-![](/src/assets/img/dashboard.png)
+![](/crud-practica/src/assets/img/dashboard.png)
 
 ## Project setup
 
