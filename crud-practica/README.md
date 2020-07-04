@@ -2,7 +2,7 @@
 
 ## Diseño
 
-![](/src/assets/dashboard.png)
+![](/src/assets/img/dashboard.png)
 
 ## Project setup
 
